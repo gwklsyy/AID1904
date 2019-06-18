@@ -21,7 +21,7 @@ select .. from [table] where ...
 
 
 
-练习:
+
 
 1. 创建 class 表,内容 
    
